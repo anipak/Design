@@ -1,0 +1,92 @@
+@media (max-width: 1440px) {
+    
+}
+
+@media (max-width: 1200px) {
+    .item{
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 0;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    
+}
+
+
+@media (max-width: 992px) {
+  .main{
+    flex-direction: column;
+    align-items: center;
+
+  }
+  
+  .main_content p{
+    padding-bottom: 50px;
+  }
+
+}
+
+
+@media (max-width:768px) {
+    .reebok_img img{
+        width: 90%;
+    }
+
+    .portfolio_img img{
+        width: 90%;
+    }
+
+    .camera_img img{
+        width: 90%;
+    }
+}
+
+@media (max-width:576px) {
+    .header_list a {
+        display: none;
+    }
+}
+
+
+
+@media (max-width:450px) {
+    .main_content h1{
+        width: 90%;
+        padding-left: 50px;
+      
+    }
+
+    .main_content p{
+        width: 90%;
+        padding-left: 50px;
+    }
+
+    .main_photo{
+        width: 90%;
+    }
+}
+
+
+@media (max-width:400px) {
+    .item_content{
+        padding-left: 50px;
+    }
+
+    .item_content p {
+        width: 90%;
+    }
+}
+
+
+
+@media (max-width:375px) {
+    
+}
+
+
+@media (max-width:320px) {
+    
+}
